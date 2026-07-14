@@ -1,0 +1,25 @@
+# Java / Maven
+sigepro-backend/target/
+*.class
+*.jar
+*.war
+*.log
+
+# Node / Frontend
+sigepro-frontend/node_modules/
+sigepro-frontend/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
